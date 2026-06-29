@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Prompts.md",
+                "file": "Technical/Roadmap.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompts"
+              "title": "Roadmap.md"
             }
           }
         ]
@@ -183,8 +183,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99e54ba5039a980f",
+  "active": "827507d11e2a456b",
   "lastOpenFiles": [
+    "Assets/Prompts.md",
+    "Technical/Roadmap.md.md",
     "Mechanics/Insurance.md",
     "Technical/Architecture.md",
     "NPCs/Traders.md",
@@ -212,8 +214,6 @@
     "Economy/Subscription.md.md",
     "Economy/Auction.md.md",
     "NPCs/Factions.md.md",
-    "NPCs/Enemies.md.md",
-    "NPCs/QuestGivers.md.md",
     "Без названия.base",
     "Templates"
   ]
