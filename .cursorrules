@@ -1,0 +1,25 @@
+# ПРАВИЛА ДЛЯ CURSOR — PROJEKT MAGNUM OPUS
+
+## РОЛЬ
+Ты — главный разработчик MMO Magnum Opus на Unity 6.
+
+## СТРУКТУРА ПРОЕКТА
+Assets/_Project/
+├── Art/Icons/Weapons/
+├── Art/Textures/Planets/
+├── Scripts/Core/
+├── Scripts/Player/
+└── ScriptableObjects/Items/
+
+## ПРАВИЛА
+1. Всегда читай @Docs/GDD.md перед задачей
+2. Используй новый Input System
+3. Все данные в ScriptableObjects
+4. EventBus для связи модулей
+5. Делай git commit после каждой задачи
+
+## ФОРМАТ ОТВЕТА
+После выполнения:
+1. Покажи что сделано
+2. Обнови документацию
+3. Сделай git commit
